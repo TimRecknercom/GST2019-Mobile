@@ -1,0 +1,32 @@
+# GST2023 Mobile — Help & Troubleshooting Guide
+
+Need help getting the 2023 Santa Tracker Android build running? Follow the solutions below for common emulator and installation questions.
+
+---
+
+### 1. Which emulator should I use?
+* **BlueStacks 5:** Best general compatibility for Windows and macOS. Supports custom keymaps and high refresh rates.
+* **MuMuPlayer:** Lightweight alternative that runs smoothly on lower-spec PCs.
+
+---
+
+### 2. How do I configure keyboard controls?
+Most Santa Tracker mini-games rely on touchscreen swiping or tilting. To play comfortably with a mouse and keyboard:
+1. Open your emulator while running the game.
+2. Open the **Controls Editor** (in BlueStacks: `Ctrl + Shift + A`).
+3. Add a **D-Pad / Directional Pad** over the movement area and bind it to `WASD` or Arrow Keys.
+4. For tap-based games (like dropping presents), simply use left-clicks on your mouse.
+
+---
+
+### 3. "App Not Installed" or Parse Error on Android
+* Ensure your Android version is compatible (Android 8.0 or newer recommended).
+* If updating an existing install fails, uninstall any older versions of Santa Tracker before running the 2023 APK installer.
+* Verify the download completed fully and the file size matches the release checksum.
+
+---
+
+### 4. Why won't the Santa Tracker map update?
+The real-time tracker uses server-side data feeds operated by Google during December 24–25. Because the backend service for the 2023 build is discontinued, the map remains in its offline state. All mini-games and interactive scenes continue to work normally.
+
+
