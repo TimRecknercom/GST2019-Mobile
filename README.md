@@ -9,7 +9,24 @@ An archival and preservation project for the final official Android release of G
 
 Following the delisting and discontinuation of the native Santa Tracker app on the Google Play Store, this repository preserves the standalone Android build along with setup instructions for modern devices and desktop emulators.
 
----
+--- Santa Tracker 5.4.2 — Media & Asset Archive
+<img width="1911" height="992" alt="Screenshot 2026-11-09 002505" src="https://github.com/user-attachments/assets/2df3444a-9594-48cb-b3df-45978ee70faa" />
+
+This archive preserves original, unmodified image and audio files extracted directly from the Santa Tracker v5.4.2 Android APK.
+
+What's Included:
+
+416 High-Density Images: High-resolution UI textures, character sprites, and original village artwork.
+
+Complete Audio Soundboard: Every original audio track and sound effect from the app, including the main Santa Tracker music loop, Fruit Doodle music, sleigh bells, and game UI sounds.
+
+In-Browser Playback: All audio files are hosted locally for direct playback without extra software.
+
+All files are preserved strictly for historical, digital preservation, and educational purposes. All original assets and trademarks belong to Google LLC.
+
+If you also need a short 1-sentence summary for your repository's "About" sidebar description:
+
+A digital preservation project featuring 416 extracted graphics and an interactive web soundboard from the discontinued Google Santa Tracker v5.4.2 Android APK.
 
 ## 📌 About This Project
 
