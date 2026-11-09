@@ -24,8 +24,6 @@ In-Browser Playback: All audio files are hosted locally for direct playback with
 
 All files are preserved strictly for historical, digital preservation, and educational purposes. All original assets and trademarks belong to Google LLC.
 
-If you also need a short 1-sentence summary for your repository's "About" sidebar description:
-
 A digital preservation project featuring 416 extracted graphics and an interactive web soundboard from the discontinued Google Santa Tracker v5.4.2 Android APK.
 
 ## 📌 About This Project
