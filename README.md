@@ -1,7 +1,8 @@
 # Google Santa Tracker (2023 Mobile Archive)
 
-<img width="1535" height="958" alt="Screenshot 2026-11-08 222426" src="https://github.com/user-attachments/assets/422abcf3-42d8-495b-9688-1e32a945f366" />
-<img width="1532" height="887" alt="Screenshot 2026-11-08 230318" src="https://github.com/user-attachments/assets/207d050f-8b2f-4a99-93f4-bf5c407b0c1a" />
+<img width="584" height="584" alt="download" src="https://github.com/user-attachments/assets/d7cf42cf-0bf3-4b80-9538-f4761f765d86" />
+
+
 
 
 An archival and preservation project for the final official Android release of Google Santa Tracker (December 2023). 
@@ -21,7 +22,8 @@ This repository exists to document, archive, and provide instructions on how to 
 * **Dedicated Engine Assets:** Localized sound banks, sprite sheets, and animations built specifically for Android runtimes.
 * **Preserved Village Map:** The final structural layout released prior to full web-only migration.
 
----
+--- <img width="1535" height="958" alt="Screenshot 2026-11-08 222426" src="https://github.com/user-attachments/assets/422abcf3-42d8-495b-9688-1e32a945f366" />
+<img width="1532" height="887" alt="Screenshot 2026-11-08 230318" src="https://github.com/user-attachments/assets/207d050f-8b2f-4a99-93f4-bf5c407b0c1a" />
 
 ## 🚀 How to Run the App
 
