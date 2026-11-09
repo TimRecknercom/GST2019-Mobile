@@ -6,7 +6,7 @@ Google Drive version for santa-tracker-5-4-2 from December 2023
 https://drive.google.com/drive/folders/1GKd-4LXl35bLBU4E21JtDagE7m3selCx?usp=sharing
 
 
-An archival and preservation project for the final official Android release of Google Santa Tracker (December 2023). 
+An archival and preservation project for the final official Android release of Google Santa Tracker (December 2019). 
 
 Following the delisting and discontinuation of the native Santa Tracker app on the Google Play Store, this repository preserves the standalone Android build along with setup instructions for modern devices and desktop emulators.
 
@@ -31,7 +31,7 @@ A digital preservation project featuring 416 extracted graphics and an interacti
 
 In late 2023, Google sunsetted active development for the native Android build of Santa Tracker, shifting focus strictly to web-based experiences. As a result, the native client was removed from the Play Store, putting the original games, physics engines, and offline assets at risk of becoming lost media.
 
-This repository exists to document, archive, and provide instructions on how to run the preserved 2023 Android APK locally.
+This repository exists to document, archive, and provide instructions on how to run the preserved 2019 Android APK locally.
 
 ### Key Features of the 2023 Build
 * **Native Offline Mini-Games:** Includes client-rendered favorites like *Present Drop*, *Rocket Sleigh*, and *Wrap Battle*.
