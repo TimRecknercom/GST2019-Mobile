@@ -1,8 +1,11 @@
 # Google Santa Tracker (2019 Mobile Archive)
 
+> ⚠️ **Notice & License Compliance**  
+> All original application code, visual assets, audio, and trademarks remain the intellectual property of **Google LLC**. This repository serves solely as a historical preservation and educational archive. In accordance with Google's **Apache License, Version 2.0** and Creative Commons guidelines, reproducing, redistributing, or forking these files without retaining proper attribution and copyright notices is strictly prohibited.
+
 <img width="584" height="584" alt="download" src="https://github.com/user-attachments/assets/d7cf42cf-0bf3-4b80-9538-f4761f765d86" />
 
-Google Drive version for santa-tracker-5-4-2 from December 2023
+Google Drive version for santa-tracker-5-4-2 from December 2019
 https://drive.google.com/drive/folders/1GKd-4LXl35bLBU4E21JtDagE7m3selCx?usp=sharing
 
 
@@ -33,7 +36,7 @@ In late 2023, Google sunsetted active development for the native Android build o
 
 This repository exists to document, archive, and provide instructions on how to run the preserved 2019 Android APK locally.
 
-### Key Features of the 2023 Build
+### Key Features of the 2019 Build
 * **Native Offline Mini-Games:** Includes client-rendered favorites like *Present Drop*, *Rocket Sleigh*, and *Wrap Battle*.
 * **Dedicated Engine Assets:** Localized sound banks, sprite sheets, and animations built specifically for Android runtimes.
 * **Preserved Village Map:** The final structural layout released prior to full web-only migration.
@@ -48,7 +51,7 @@ Because this is a native Android application (`.apk`), it requires either a phys
 ### Option 1: On a PC / Mac (Recommended)
 You can run the APK on any modern computer using an Android emulator:
 1. Download and install an emulator such as [BlueStacks 5](https://www.bluestacks.com/) or [MuMuPlayer](https://www.mumuplayer.com/).
-2. Download the `GST2023.apk` file from the **Releases** section of this repository.
+2. Download the `GST2019.apk` file from the **Releases** section of this repository.
 3. Drag and drop the `.apk` file into your emulator window to install it.
 4. Launch the game from the emulator home screen.
 
