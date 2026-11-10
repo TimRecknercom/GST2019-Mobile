@@ -3,6 +3,24 @@
 > ⚠️ **Notice & License Compliance**  
 > All original application code, visual assets, audio, and trademarks remain the intellectual property of **Google LLC**. This repository serves solely as a historical preservation and educational archive. In accordance with Google's **Apache License, Version 2.0** and Creative Commons guidelines, reproducing, redistributing, or forking these files without retaining proper attribution and copyright notices is strictly prohibited.
 
+---
+
+## 🤝 Community Reuse & Project Guidelines
+
+This archive was created to preserve mobile history and help the community explore and study these builds. You are welcome to use files from this repository for your own educational, research, or historical preservation projects, provided you follow these core requirements:
+
+1. **Mandatory Attribution to Google LLC**  
+   All original application code, visual assets, audio, and trademarks remain the property of **Google LLC**. Any downstream project, fork, or documentation referencing these assets must explicitly credit **Google LLC** as the original copyright holder.
+
+2. **Apache License 2.0 Compliance**  
+   In accordance with the Apache License, Version 2.0 (included in the [`LICENSE`](./LICENSE) file):
+   * You must include a copy of the Apache 2.0 License in any distribution.
+   * You must retain all original copyright, trademark, and attribution notices.
+   * You must state clearly if you have made any modifications to the original files.
+
+3. **No Direct Impersonation or Unmodified Mirror Clones**  
+   This repository serves as a dedicated archive. Please do not re-host duplicate, 1:1 identical mirror repositories claiming primary release ownership. Use or reference this repository as an upstream source, build something creative, and give proper credit where it belongs.
+
 <img width="584" height="584" alt="download" src="https://github.com/user-attachments/assets/d7cf42cf-0bf3-4b80-9538-f4761f765d86" />
 
 An archival and preservation project for the final official Android release of Google Santa Tracker (December 2019). 
