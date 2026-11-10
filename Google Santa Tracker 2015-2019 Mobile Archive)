@@ -1,4 +1,4 @@
-# Google Santa Tracker (2023 Mobile Archive)
+# Google Santa Tracker (2015-2019 Mobile Archive)
 
 An archival and preservation project for the final official Android release of Google Santa Tracker (December 2023). 
 
@@ -8,11 +8,14 @@ Following the delisting and discontinuation of the native Santa Tracker app on t
 
 ## 📌 About This Project
 
-In late 2023, Google sunsetted active development for the native Android build of Santa Tracker, shifting focus strictly to web-based experiences. As a result, the native client was removed from the Play Store, putting the original games, physics engines, and offline assets at risk of becoming lost media.
+Between 2015 and 2019, Google maintained active native Android builds of Santa Tracker before shifting focus entirely to web-based experiences. Following the delisting and discontinuation of the native app on the Google Play Store, this repository preserves the standalone legacy APKs alongside instructions on how to run them locally.
 
-This repository exists to document, archive, and provide instructions on how to run the preserved 2023 Android APK locally.
+### 🌟 Key Features (2015 & 2019 Builds)
+* **Client-Rendered Mini-Games:** Native offline gameplay including *Present Drop*, *Rocket Sleigh*, *Wrap Battle*, and 2015's tilt-based *Gumball*.
+* **Preserved Engine Assets:** Original uncompressed audio soundbanks, vector graphics, and high-density sprite sheets built specifically for the Android runtime.
+* **Legacy Compatibility:** Full support for physical Android devices as well as modern desktop emulators with virtual sensor mapping.
 
-### Key Features of the 2023 Build
+### Key Features of the 2019 Build
 * **Native Offline Mini-Games:** Includes client-rendered favorites like *Present Drop*, *Rocket Sleigh*, and *Wrap Battle*.
 * **Dedicated Engine Assets:** Localized sound banks, sprite sheets, and animations built specifically for Android runtimes.
 * **Preserved Village Map:** The final structural layout released prior to full web-only migration.
@@ -26,7 +29,7 @@ Because this is a native Android application (`.apk`), it requires either a phys
 ### Option 1: On a PC / Mac (Recommended)
 You can run the APK on any modern computer using an Android emulator:
 1. Download and install an emulator such as [BlueStacks 5](https://www.bluestacks.com/) or [MuMuPlayer](https://www.mumuplayer.com/).
-2. Download the `GST2023.apk` file from the **Releases** section of this repository.
+2. Download the `GST2019.apk`& GST2015 file from the **Releases** section of this repository.
 3. Drag and drop the `.apk` file into your emulator window to install it.
 4. Launch the game from the emulator home screen.
 
