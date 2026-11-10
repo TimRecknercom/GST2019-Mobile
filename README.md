@@ -1,4 +1,4 @@
-# Google Santa Tracker (2019 Mobile Archive)
+# Google Santa Tracker (2015-2019 Mobile Archive)
 
 > ⚠️ **Notice & License Compliance**  
 > All original application code, visual assets, audio, and trademarks remain the intellectual property of **Google LLC**. This repository serves solely as a historical preservation and educational archive. In accordance with Google's **Apache License, Version 2.0** and Creative Commons guidelines, reproducing, redistributing, or forking these files without retaining proper attribution and copyright notices is strictly prohibited.
